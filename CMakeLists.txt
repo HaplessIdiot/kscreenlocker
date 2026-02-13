@@ -171,7 +171,6 @@ set(ksld_SRCS
    globalaccel.cpp
    x11locker.cpp
    waylandlocker.cpp
-   logind.cpp
    waylandserver.cpp
    powermanagement_inhibition.cpp
    abstractlocker.h
@@ -180,7 +179,6 @@ set(ksld_SRCS
    globalaccel.h
    x11locker.h
    waylandlocker.h
-   logind.h
    waylandserver.h
    powermanagement_inhibition.h
 )

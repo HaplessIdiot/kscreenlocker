@@ -10,7 +10,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 #include "globalaccel.h"
 #include "interface.h"
 #include "kscreensaversettings.h"
-#include "logind.h"
+#include "nullbackend.h"
 #include "powermanagement_inhibition.h"
 #include "waylandlocker.h"
 #include "x11locker.h"
