@@ -6,3 +6,14 @@
 .cache
 CMakeLists.txt.user
 /build*
+# Generic editor swap files
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+*.tmp
+# Kate swap/autosave files
+*.kate-swp
+.*.kate-swp
+*.autosave
